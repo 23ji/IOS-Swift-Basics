@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     let name:[String]  = ["김본", "이상지", "윤재준"]
     let nickName:[String:String] = ["Bon":"본드", "Sangji":"일찐짱", "Jaejun":"지도리"]
-    let emoji:Set = ["🍠", "🍑", "🥥"]
+    //let emoji:Set = ["🍠", "🍑", "🥥"]
     var body: some View {
         
         VStack {
